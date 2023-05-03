@@ -1,0 +1,13 @@
+Сущность для Новин
+news{
+    data: getData()
+    title: ""
+    getSertificate: "" + getSertificate()
+}
+
+Сущность для Завдання
+task{
+    header: ""
+    body: ""
+    button : openFaQ()
+}
