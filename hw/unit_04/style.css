@@ -1,0 +1,16 @@
+.green {
+    color: green;
+}
+
+.bold {
+    font-weight: 700;
+}
+.bold3 {
+    font-weight: 1000;
+}
+.text-red {
+    color: red;
+}
+.text-center {
+    text-align: center;
+}
